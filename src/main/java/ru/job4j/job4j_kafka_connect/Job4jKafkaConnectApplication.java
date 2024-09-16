@@ -8,6 +8,7 @@ public class Job4jKafkaConnectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Job4jKafkaConnectApplication.class, args);
+		System.out.println("run");
 	}
 
 }
